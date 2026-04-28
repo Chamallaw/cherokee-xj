@@ -1,2 +1,6 @@
-# ⚙️ Boite de vitesse
+---
+icon: transmission
+---
+
+# Boite de vitesse
 

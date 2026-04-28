@@ -2,9 +2,10 @@
 description: >-
   Histoire complète du Jeep Cherokee XJ, de sa naissance chez AMC à son statut
   d’icône, avec ses grandes évolutions et quelques anecdotes marquantes.
+icon: scroll
 ---
 
-# 📃 Histoire
+# Histoire
 
 ## Histoire du Jeep Cherokee XJ
 

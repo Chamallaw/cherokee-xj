@@ -12,7 +12,7 @@ Il permet d’ajuster son comportement sur trois points :
 
 ***
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="Boîtier de régulateur de vitesse" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="Boîtier de régulateur de vitesse" width="188"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Avant tout réglage, notez la position d’origine des vis.\
