@@ -26,8 +26,8 @@ Pour un usage intensif, un fort kilométrage annuel ou du remorquage, réduisez 
 
 | Opération                                                              | Fréquence | Quantité    | Produit                             |
 | ---------------------------------------------------------------------- | --------- | ----------- | ----------------------------------- |
-| Vidange moteur\*                                                       | 12 000 km | 5,7 litres  | Huile multigrade `10W40` ou `15W50` |
-| Changement du filtre à huile\*                                         | 12 000 km | 1           | Filtre à huile                      |
+| Vidange moteur\*                                                       | 10 000 km | 5,7 litres  | Huile multigrade `10W40` ou `15W50` |
+| Changement du filtre à huile\*                                         | 10 000 km | 1           | Filtre à huile                      |
 | Remplacement des bougies                                               | 48 000 km | 6           | Champion `RC9YC` réglées à `0,9 mm` |
 | Remplacement du liquide de refroidissement                             | 36 000 km | 11,4 litres | Liquide de refroidissement          |
 | Remplacement du filtre à air d’origine\*\*                             | 48 000 km | 1           | Filtre papier                       |
@@ -43,8 +43,8 @@ Pour un usage intensif, un fort kilométrage annuel ou du remorquage, réduisez 
 
 | Opération                                                              | Fréquence | Quantité   | Produit                                     |
 | ---------------------------------------------------------------------- | --------- | ---------- | ------------------------------------------- |
-| Graissage de l’arbre de transmission avant `(1 point)` ou `(3 points)` | 12 000 km | —          | Graisse                                     |
-| Graissage de l’arbre de transmission arrière `(2 points)`              | 12 000 km | —          | Graisse                                     |
+| Graissage de l’arbre de transmission avant `(1 point)` ou `(3 points)` | 10 000 km | —          | Graisse                                     |
+| Graissage de l’arbre de transmission arrière `(2 points)`              | 10 000 km | —          | Graisse                                     |
 | Vidange de boîte automatique\*                                         | 48 000 km | 8,0 litres | `Mercon` ou `Dexron II / III` + additif\*\* |
 | Vidange du pont avant                                                  | 48 000 km | 1,2 litre  | `API GL5 75W90`                             |
 | Vidange du pont arrière                                                | 48 000 km | 1,2 litre  | `API GL5 75W90` + additif\*\*\*             |
@@ -62,7 +62,7 @@ Si vous remorquez souvent, utilisez une huile synthétique `75W140` pour le pont
 
 | Opération                                        | Fréquence | Quantité  | Produit                       |
 | ------------------------------------------------ | --------- | --------- | ----------------------------- |
-| Graissage des éléments de direction `(4 points)` | 12 000 km | —         | Graisse                       |
+| Graissage des éléments de direction `(4 points)` | 10 000 km | —         | Graisse                       |
 | Liquide de direction assistée                    | —         | 1,1 litre | `Mercon` ou `Dexron II / III` |
 
 ### Freins
