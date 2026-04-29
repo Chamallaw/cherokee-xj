@@ -10,6 +10,7 @@
 
 * [Boite de vitesse](technique/boite-de-vitesse/README.md)
   * [Boite automatique AW4](technique/boite-de-vitesse/boite-automatique-aw4/README.md)
+    * [Vidange boîte automatique AW4](technique/boite-de-vitesse/boite-automatique-aw4/vidange-boite-automatique-aw4.md)
     * [🔥 Contacteur Comfort/Power](technique/boite-de-vitesse/boite-automatique-aw4/contacteur-comfort-power.md)
   * [Boite manuel 5 vitesses](technique/boite-de-vitesse/boite-manuel-5-vitesses.md)
 * [Moteur](technique/moteur/README.md)
